@@ -9,7 +9,3 @@ print(len(my_name))
 print("What is your age?") # Ask for their age.
 my_age = input("> ")
 print("You will be " + str(int(my_age) + 1) + " in a year.")
-<<<<<<< HEAD
-
-=======
->>>>>>> fe82b6f (create a new version of hello.py and create a file call repeat_message.py)
